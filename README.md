@@ -2,7 +2,6 @@
   <img alt="Logo" src="./img/logo.png" width="400px" />
 </p>
 <p align="center">
-Projeto de um script shell de uma calculadora dinamica em python
 </p>
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
