@@ -11,7 +11,7 @@
 
 <p align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/Dio-Course-blue">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Dev-Project-purple">	  
+  <img alt="Static Badge" src="https://img.shields.io/badge/Data-Project-purple">	
 </p>
 
 <br>
